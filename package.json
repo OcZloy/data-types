@@ -1,0 +1,16 @@
+{
+  "name": "learning-task-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "lint": "eslint index.js"
+  },
+  "keywords": [],
+  "author": "Anton Starodubtsev",
+  "license": "No license",
+  "dependencies": {
+    "eslint": "7.22.0"
+  }
+}
