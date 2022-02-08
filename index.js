@@ -4,3 +4,6 @@
  * Create a variable myBoolean and assign it any boolean.
  * Create a constant myString and assign it any string.
  */
+let myNumber = 1
+let myBoolean = false
+let myString = 'boy'
